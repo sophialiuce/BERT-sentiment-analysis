@@ -1,4 +1,4 @@
-# BERT-sentiment-analysis
+# BERT-topic-classification
 
 This repository contains implementations for haircare verbatim topic classification and pre-trained models using Google BERT.
 
