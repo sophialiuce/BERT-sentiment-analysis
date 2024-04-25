@@ -1,0 +1,14 @@
+# exclude data files
+*.csv
+
+# exclude the model
+/uncased_*/*
+checkpoint
+*ckpt*
+*.pbtxt
+
+# exclude the DS_Store
+.DS_Store
+
+# exclude the result file
+eval_results_20epochs_labeled.txt
