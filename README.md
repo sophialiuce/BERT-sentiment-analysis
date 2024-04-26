@@ -1,6 +1,6 @@
 # BERT-topic-classification
 
-This repository contains implementations for haircare verbatim topic classification and pre-trained models using Google BERT.
+This repository contains implementations for customer verbatim topic classification and pre-trained models using Google BERT.
 
 Here are some information included in this repository:
 
